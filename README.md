@@ -20,5 +20,5 @@ This project is a job simulation focused on Data Analytics and Commercial Insigh
 * Techniques for A/B testing (uplift testing) and control group identification.
 * 
 ## Accessing the Project
-You can view the R scripts and output files in this repository.
+You can view the output files (pdf)  in this repository.
 Check out the simulation here: https://www.theforage.com/simulations/quantium/data-analytics-rqkb
